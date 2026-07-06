@@ -7,7 +7,7 @@ This repository hosts a high-yield, structured master reference document detaili
 ---
 
 ## 📂 Core Asset Information
-*   **[TALLY PRIME COMPLETE](./TALLY%PRIME%COMPLETE%.%pdf)**
+*   **[TALLY PRIME COMPLETE](./TALLY%20PRIME%20COMPLETE.pdf)**
 *   **Target Audience:** Finance Professionals, Professional Accountants, Corporate Auditors, Data Analysts, and Commerce Educators.
 *   **Core Objective:** Bridging the gap between corporate financial theory, structural accounting mechanics, and automated technical execution.
 
